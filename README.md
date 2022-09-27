@@ -22,3 +22,5 @@ You can click the Preview link to take a look at your changes.
 
 ## Snake eating my contribution lol
 ![snake gif](https://github.com/yash-mewada/yash-mewada/blob/output/github-contribution-grid-snake.svg)
+
+![](https://komarev.com/ghpvc/?username=your-github-yash-mewada&color=brightgreen)
