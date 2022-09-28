@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 ## Stats
-[![yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yash-mewada&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yash-mewada&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 |      |      |
 |:-------------------------:|:-------------------------:|
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-mewada&theme=chartreuse-dark) | [![GitHub Streak](https://streak-stats.demolab.com?user=yash-mewada&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) |
