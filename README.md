@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
   </a>
 </p>
 
-## Stats
+## Statistics
 [![yash's github activity graph](https://activity-graph.herokuapp.com/graph?username=yash-mewada&theme=chartreuse-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 |      |      |
 |:-------------------------:|:-------------------------:|
