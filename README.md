@@ -1,9 +1,9 @@
 ## About me
-- 👋 Hello, I’m yash mewada
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning python
-- 🔭 I'm currently working on improving my skills
-- 📫 How to reach me yashmewada27@gmail.com
+- 👋 Hello, I’m yash mewada.
+- 👀 I’m interested in tech.
+- 🌱 I’m currently learning python.
+- 🔭 I'm currently working on improving my skills.
+- 📫 How to reach me yashmewada27@gmail.com.
 
 <!---
 yash-mewada/yash-mewada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
