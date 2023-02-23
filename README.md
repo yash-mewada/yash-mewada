@@ -1,7 +1,7 @@
 ## About me
 - 👋 Hello, I’m yash mewada.
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning ReactJS.
 - 🔭 I'm currently working on improving my skills.
 - 📫 How to reach me yashmewada27@gmail.com.
 
