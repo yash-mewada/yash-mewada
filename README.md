@@ -21,7 +21,4 @@ You can click the Preview link to take a look at your changes.
 |:-------------------------:|:-------------------------:|
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-mewada&theme=chartreuse-dark) | [![GitHub Streak](https://streak-stats.demolab.com?user=yash-mewada&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats) |
 
-## Snake eating my contribution lol
-![snake gif](https://github.com/yash-mewada/yash-mewada/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://komarev.com/ghpvc/?username=your-github-yash-mewada&color=brightgreen)
