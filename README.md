@@ -9,7 +9,7 @@
 yash-mewada/yash-mewada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## Things i know
+## Technologies i know
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,bash,c,cpp,css,nodejs,react,figma,git,github,java,javascript,linux,mysql,py,vim,vscode,ps,pr,xd,powershell,twitter,mongodb,ai&perline=12" />
