@@ -11,8 +11,8 @@ You can click the Preview link to take a look at your changes.
 --->
 ## 🧑🏻‍💻 Featured Projects
 
-1. [NexStream](https://nex-stream-ivory.vercel.app/) : A live streaming platform for gamers and irl streamers
-2. [Vidhya](https://vidhya-mini-project.vercel.app/) : A learning platform to upload video courses
+1. [NexStream](https://nex-stream-ivory.vercel.app/) : A live streaming platform for gamers and irl streamers.
+2. [Vidhya](https://vidhya-mini-project.vercel.app/) : A learning platform to upload video courses.
 
 ## Technologies i know
 <p align="center">
